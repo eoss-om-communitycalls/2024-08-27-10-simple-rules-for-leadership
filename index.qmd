@@ -1,6 +1,6 @@
 ---
-title: "An example report "
-subtitle: "Exploring how to report out from community calls"
+title: "10 Simple Rules for Leadership Without Formal Authority"
+subtitle: "A resource for Open Source Leaders"
 authors: [ "Laura Ación", "Cat Allman", "Yani Bellini Saibene", "Henrik Bengtsson", "Beth Duckles", "Jonah Duckles", "Kate Hertweck", "Daniel S. Katz", "Dan Sholler", "Carol Willing"]
 date: "August 26, 2024"
 format:
@@ -14,8 +14,6 @@ reference-location: margin
 citation-location: margin
 bibliography: bibliography.bib
 ---
-
-# 10 Simple Rules for Leadership Without Formal Authority
 
 *\[To the initial contributors from the Community Call: We have taken the notes from the call, interpreted them, and come up with this [“10 Simple Rules” style piece](https://docs.google.com/document/d/1p6U8oiQLc3gFhvKb9vxtxyHEjqDIg2rj2v5jVtr6kZE/edit) on leading projects in the absence of formal authority. Please take a look and edit any and all parts of it– this did not take us long, and we are not at all married to the list of rules or the descriptions. We welcome additions, revisions, exclusions, wholesale destruction… anything that better captures our conversation and will be useful to the broader open science community.\]*
 
