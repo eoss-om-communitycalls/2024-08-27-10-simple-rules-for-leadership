@@ -12,8 +12,8 @@ format:
         - text: Github
           icon: github
           href: https://github.com/eoss-om-communitycalls/2024-08-27-10-simple-rules-for-leadership
-    pdf: default
-    epub: default
+    pdf: 
+    epub: 
 execute: 
   echo: fenced
 reference-location: margin
