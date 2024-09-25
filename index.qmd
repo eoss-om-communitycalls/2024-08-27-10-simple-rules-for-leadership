@@ -35,7 +35,7 @@ This set of simple rules is applicable to open organizations that rely on contri
 These rules are imagined as rules for leaders working across organizations, though they can also be useful within larger organizations when no formal authority is held over participants. Inside of organizations it is important to be aware of existing power structures and how this kind of leading without formal authority can sometimes cause friction with those structures. Furthermore, leading in this way is very difficult: It requires resources, skill development, sensitivity to contributors’ and community members’ realities, navigation of existing organizational structures and social networks, and other demands. These “rules” are therefore more like guidelines or a toolkit to consult in developing this method of leadership.
 
 1. **Establish and overcommunicate the project’s mission and vision[^3]**   
-   1. The project’s mission and vision are what people / contributors come for.  
+   1. The project’s mission and vision are what contributors come for.  
    2. Articulating a mission or vision can be the work of both someone inside of a formal structure and also a leader who brings people together.   
    3. In some cases, leaders must build consensus on what the mission/vision should be or how it should change. This is particularly true when small groups establish an organization together around a common goal.  
 2. **Lead by example, both in doing the technical work and creating culture**   
