@@ -3,7 +3,8 @@ project:
   output-dir: docs
 execute:
   freeze: auto
-format: html
+format: 
+  html:
     include-in-header:
       - text: |
           <script defer data-domain="eoss-om-communitycalls.github.io" src="https://a.duckles.nz/js/script.js"></script>
