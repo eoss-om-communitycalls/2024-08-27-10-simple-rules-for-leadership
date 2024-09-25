@@ -1,8 +1,8 @@
 ---
 title: "An example report "
 subtitle: "Exploring how to report out from community calls"
-authors: ["Author Number One", "Author Number Two"]
-date: "August 13, 2024"
+authors: [ "Laura Ación", "Cat Allman", "Yani Bellini Saibene", "Henrik Bengtsson", "Beth Duckles", "Jonah Duckles", "Kate Hertweck", "Daniel S. Katz", "Dan Sholler", "Carol Willing"]
+date: "August 26, 2024"
 format:
     html: 
       self-contained: true
@@ -15,40 +15,88 @@ citation-location: margin
 bibliography: bibliography.bib
 ---
 
-This template can be used to create simple reports for reporting the output / outcomes of activities and events. It is built and rendered using quarto 
+# 10 Simple Rules for Leadership Without Formal Authority
 
-# Section 1 
+*\[To the initial contributors from the Community Call: We have taken the notes from the call, interpreted them, and come up with this [“10 Simple Rules” style piece](https://docs.google.com/document/d/1p6U8oiQLc3gFhvKb9vxtxyHEjqDIg2rj2v5jVtr6kZE/edit) on leading projects in the absence of formal authority. Please take a look and edit any and all parts of it– this did not take us long, and we are not at all married to the list of rules or the descriptions. We welcome additions, revisions, exclusions, wholesale destruction… anything that better captures our conversation and will be useful to the broader open science community.\]*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla placerat pretium tempus. Mauris eget nisl ante. Etiam iaculis, nisl ultricies facilisis aliquet, urna odio porta nisi, non tristique enim sapien eget mi. Proin sed orci lobortis, sodales orci quis, consectetur nulla. Phasellus eget enim rhoncus, fermentum nisi ut, aliquet nulla. Sed mollis ullamcorper dolor, at tempus est vulputate eget. Mauris consequat felis nec eros venenatis, sit amet tempor neque consectetur. Curabitur pharetra, metus a sodales fermentum, neque libero sollicitudin magna, eget fermentum sapien dolor sit amet dolor. Fusce odio felis, pulvinar in laoreet at, sodales sed magna. Sed sagittis, enim id feugiat laoreet, erat nisi rhoncus ipsum, vitae suscipit quam nulla id libero. Integer condimentum, eros eget rutrum porta, tortor turpis sodales ligula, a facilisis nisi tortor id risus. [^note]
+This set of simple rules is applicable to open organizations that rely on contributors who may have other jobs or responsibilities, may work across various organizations, and otherwise are not obligated to contribute to the open effort. In managing these organizations, a substantial amount of “cat herding”[^2] is involved: Contributors and community members are not working under a formal authority structure that enables compliance-gaining to be as simple as rules and policies. Instead, a bottom-up approach to leadership is needed, where behavior is encouraged via alternative methods to “stick and carrots.”  
 
-[^note]: this is a sidenote. it can contain whatever HTML content you want in it. 
+These rules are imagined as rules for leaders working across organizations, though they can also be useful within larger organizations when no formal authority is held over participants. Inside of organizations it is important to be aware of existing power structures and how this kind of leading without formal authority can sometimes cause friction with those structures. Furthermore, leading in this way is very difficult: It requires resources, skill development, sensitivity to contributors’ and community members’ realities, navigation of existing organizational structures and social networks, and other demands. These “rules” are therefore more like guidelines or a toolkit to consult in developing this method of leadership.
 
-## Subsection 1.1
+1. **Establish and overcommunicate the project’s mission and vision[^3]**   
+   1. The project’s mission and vision are what people / contributors come for.  
+   2. Articulating a mission or vision can be the work of both someone inside of a formal structure and also a leader who brings people together.   
+   3. In some cases, leaders must build consensus on what the mission/vision should be or how it should change. This is particularly true when small groups establish an organization together around a common goal.  
+2. **Lead by example, both in doing the technical work and creating culture**   
+   1. Doing the work alongside the community will be noticed.   
+   2. Support and empower people to do the work they want to do. Giving other people the opportunity to be a leader lets them learn as they do.   
+   3. Start with the assumption that the leader doesn’t have authority over anyone but authority is given to them through the community. The community will keep leadership accountable by deciding whether or not to contribute to the project.   
+   4. Consider the leadership qualities you most want and decide how to convey those. For example, the qualities of kindness and directness can be modeled.   
+3. **Align incentives for contribution and participation**  
+   1. Consider what the real incentives are for people to contribute / participate.   
+      1. What do they gain from participation and engagement?  
+      2. How do incentives advance your project and the people who are contributing at the same time?  
+      3. Different contributors may have different incentives.   
+   2. Win-win wins are more stable than just win-wins.  
+      1. Example: A software project benefits from the contributions of an academic researcher whose research benefits from the software and industry/government benefits from the science (who may then further fund the project).  
+      2. Funding flywheels such as sustainment loops that create virtuous cycles as each party moves things forward. For example:  
+         1. Software \- gains features.  
+         2. Government \- gains standards and interoperability.  
+         3. Industry \- gains financial benefits and requests more features.  
+      3. Requires more compromise on the part of all parties.  
+      4. Prevents people running off with resources.  
+4. **Create agency for your community members**   
+   1. Help contributors find meaningful work for the project you’re working on.  
+      1. Optimize the time of those who are working with you.  
+      2. Be conscious of how you use community member’s time.  
+   2. Draw on the reasons for contribution to create agency among the community.  
+   3. Work to understand how your community can support the career growth, professional growth, personal growth, and technical skill development of its members.  
+   4. Actively work to remove barriers to contribution, from structural to practical. Examples include:  
+      1. Helping potential contributors acquire necessary resources, such as Internet connectivity.  
+      2. Protecting underresourced contributor time (e.g., via honoraria).   
+      3. Making contribution accessible across languages.  
+   5. Create and communicate onboarding processes.  
+   6. Create accountability mechanisms for community members to give constructive feedback safely about their experience in the community.  
+      1. Develop avenues for implementing this feedback into leadership and community decisions.  
+5. **Intentionally build THIS group’s “culture”**  
+   1. Actively build norms by talking openly about how they connect to the mission and vision.   
+      1. Document norms in ways that are accessible and digestible for the community.  
+      2. Revisit documented norms regularly to revise based on changes in the community.  
+   2. Enlist respected people to model and uphold the norms.  
+   3. Collectively hold the community’s expectations and guidelines. For example:  
+      1. Code of Conduct committee vs. project lead’s’s sole responsibility over “violations.”  
+      2. Make contribution guidelines clear and findable.   
+   4. Develop graduated sanctions for any violations.   
+      1. Consider how to keep people engaged as they learn the norms / rules.  
+      2. When possible, involve the community in the development of graduated sanctions.  
+6. **Foster inclusivity**  
+   1. Psychological safety is paramount.   
+   2. Know what you don’t want in your group’s dynamics and be sure to bring up things like toxic behavior and in group behaviors that can be exclusionary.    
+   3. Don’t underestimate the people you already have access to, they have skills and abilities to draw from.    
+7. **Empower others in the group**   
+   1. Create pathways for community members to advance into leadership roles and ensure they are explicitly documented and findable.  
+   2. Encourage people to step up and do more than even they might know they can do, when they are interested in doing more and have the bandwidth (i.e., don’t overburden people).  
+8. **Listen and adapt to develop contributor motivation**  
+   1. Start where people are.   
+   2. What do they actually want out of this engagement?  
+   3. What do you want / need out of their contributions?  
+   4. Understand that individuals’ professional / personal lives change, and so too might their motivation and availability.  
+9. **Make it easy**   
+   1. If you want people to join you, make it easy to join.   
+   2. If you would like money, make it easy to pay you.   
+   3. To communicate, make the communication accessible, simple, digestible, and understandable. Joining a community should not require substantial investment.  
+10. **Expect and prepare for community turnover**  
+    1. Work to cultivate an environment that seeks to prevent contributor burnout  
+    2. People will need to leave/do other things, this is not a bad thing. If they still think fondly of you when they leave, it’s good for the group (e.g., they may spread positive information about your project)  
+    3. Managing turnover \- if you’re already anticipating that people will leave, your systems/workflows will reflect that  
+    4. Offboarding processes should be top-of-mind: Intentionally design and regularly update processes, including by reaching out to formerly active community members  
+    5. Be welcoming when people come back\!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla placerat pretium tempus. Mauris eget nisl ante. Etiam iaculis, nisl ultricies facilisis aliquet, urna odio porta nisi, non tristique enim sapien eget mi. Proin sed orci lobortis, sodales orci quis, consectetur nulla. Phasellus eget enim rhoncus, fermentum nisi ut, aliquet nulla. Sed mollis ullamcorper dolor, at tempus est vulputate eget. Mauris consequat felis nec eros venenatis, sit amet tempor neque consectetur. Curabitur pharetra, metus a sodales fermentum, neque libero sollicitudin magna, eget fermentum sapien dolor sit amet dolor. Fusce odio felis, pulvinar in laoreet at, sodales sed magna. Sed sagittis, enim id feugiat laoreet, erat nisi rhoncus ipsum, vitae suscipit quam nulla id libero. Integer condimentum, eros eget rutrum porta, tortor turpis sodales ligula, a facilisis nisi tortor id risus. ^[You can also include notes inline, and don't need to create an identifier for them]
+[^1]:  This resource was first developed by attendees at the August 26, 2024 Chan Zuckerberg Initiative community call for the Essential Open Source Software program. If you add to this document, please also add your name to the contributors list (alphabetically by last name). A list of additional contributors will be shared in a forthcoming GitHub repo, where you can also submit a contribution. 
 
-# Section 2 
+[^2]:  Cat herding is an idiomatic English term related to organizing a group of people or entities that are not predisposed to being herded, such as cats. It is often used to talk about groups of individuals who don’t necessarily have a reason to “herd” being shepherded toward a common purpose or direction. 
 
-![A Venn diagram of the Scientific Open Source Landscape](https://dropshare.duckles.nz/scienceoss.jpg)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla placerat pretium tempus. Mauris eget nisl ante. Etiam iaculis, nisl ultricies facilisis aliquet, urna odio porta nisi, non tristique enim sapien eget mi. Proin sed orci lobortis, sodales orci quis, consectetur nulla. Phasellus eget enim rhoncus, fermentum nisi ut, aliquet nulla. Sed mollis ullamcorper dolor, at tempus est vulputate eget. Mauris consequat felis nec eros venenatis, sit amet tempor neque consectetur. Curabitur pharetra, metus a sodales fermentum, neque libero sollicitudin magna, eget fermentum sapien dolor sit amet dolor. Fusce odio felis, pulvinar in laoreet at, sodales sed magna. Sed sagittis, enim id feugiat laoreet, erat nisi rhoncus ipsum, vitae suscipit quam nulla id libero. Integer condimentum, eros eget rutrum porta, tortor turpis sodales ligula, a facilisis nisi tortor id risus. [@geiger_challenges_2018]
-
-# Conclusion 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla placerat pretium tempus. Mauris eget nisl ante. Etiam iaculis, nisl ultricies facilisis aliquet, urna odio porta nisi, non tristique enim sapien eget mi. Proin sed orci lobortis, sodales orci quis, consectetur nulla. Phasellus eget enim rhoncus, fermentum nisi ut, aliquet nulla. Sed mollis ullamcorper dolor, at tempus est vulputate eget. Mauris consequat felis nec eros venenatis, sit amet tempor neque consectetur. Curabitur pharetra, metus a sodales fermentum, neque libero sollicitudin magna, eget fermentum sapien dolor sit amet dolor. Fusce odio felis, pulvinar in laoreet at, sodales sed magna. Sed sagittis, enim id feugiat laoreet, erat nisi rhoncus ipsum, vitae suscipit quam nulla id libero. Integer condimentum, eros eget rutrum porta, tortor turpis sodales ligula, a facilisis nisi tortor id risus.
-
-## Including Tables 
-| Country           | Population      |
-|-------------------|-----------------|
-| China             | 1,412,600,000   |
-| India             | 1,366,000,000   |
-| United States     | 331,000,000     |
-| Indonesia         | 273,500,000     |
-| Pakistan          | 220,900,000     |
-| Brazil            | 212,600,000     |
-| Nigeria           | 206,100,000     |
-| Bangladesh        | 166,300,000     |
-| Russia            | 146,700,000     |
-| Mexico            | 126,000,000     |
+[^3]:  We use "mission and vision" to refer to the set of high-level text used to define an organization, which can include a mission statement, a vision statement, a purpose statement, a values statement, etc.
 
 <!-- FOOTER & LOGOS Please do not modify below --> 
 ----
