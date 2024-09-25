@@ -11,8 +11,7 @@ format:
       other-links:
         - text: Github
           icon: github
-          href: https://github.com/eoss-om-communitycalls/2024-07-29-managing-an-oss-project
-    pdf: default
+          href: https://github.com/eoss-om-communitycalls/2024-08-26-10-simple-rules-for-leadership
     epub: default
 execute: 
   echo: fenced
