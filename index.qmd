@@ -14,7 +14,8 @@ format:
           href: https://github.com/eoss-om-communitycalls/2024-08-27-10-simple-rules-for-leadership
     pdf:
         papersize: a4
-    epub: 
+    epub:
+        default:
 execute: 
   echo: fenced
 reference-location: margin
