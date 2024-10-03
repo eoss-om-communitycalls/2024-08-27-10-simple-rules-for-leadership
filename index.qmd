@@ -7,7 +7,7 @@ format:
     html: 
       self-contained: true
       grid: 
-      margin-width: 350px
+        margin-width: 350px
       other-links:
          - text: Github
            icon: github
