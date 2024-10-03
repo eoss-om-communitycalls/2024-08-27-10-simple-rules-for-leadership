@@ -8,7 +8,6 @@ format:
       self-contained: true
       grid: 
         margin-width: 350px
-    other-links:
         - text: Github
           icon: github
           href: https://github.com/eoss-om-communitycalls/2024-08-27-10-simple-rules-for-leadership
@@ -116,3 +115,5 @@ given co-authorship in alphabetical order by last name._
 
 [![CZI's Essential Open Source Software for Science](img/CZI-EOSS.png)](https://czi.co/EOSS)
 [![Organizational Mycology](img/om_short_logo.png)](https://orgmycology.com)
+
+
