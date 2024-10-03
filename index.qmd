@@ -8,9 +8,6 @@ format:
       self-contained: true
       grid: 
         margin-width: 350px
-    include-in-header:
-      - text: |
-          <script defer data-domain="eoss-om-communitycalls.github.io" src="https://a.duckles.nz/js/script.js"></script>
     other-links:
         - text: Github
           icon: github
