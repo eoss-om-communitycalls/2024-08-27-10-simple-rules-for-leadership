@@ -1,8 +1,8 @@
 ---
-title: "10 Reglas Simples para Liderazgo Sin Autoridad Formal"
-subtitle: "A resource for Open Source Leaders"
+title: "10 reglas simples para lograr liderazgo sin autoridad formal"
+subtitle: "Un recurso para personas que lideran proyectos de Código Abierto"
 authors: [ "Laura Ación", "Cat Allman", "Yani Bellini Saibene", "Henrik Bengtsson", "Beth Duckles", "Jonah Duckles", "Kate Hertweck", "Daniel S. Katz", "Dan Sholler", "Carol Willing"]
-date: "August 26, 2024"
+date: "26 de agosto del 2024"
 format:
     html: 
       self-contained: true
@@ -23,11 +23,9 @@ bibliography: bibliography.bib
 ---
 ([In English](/)]
 
-Texto para traducir 👇🏻
+Este conjunto de reglas simples puede aplicarse a organizaciones abiertas cuyas contribuciones dependen de personas que pueden tener otros trabajos o responsabilidades, trabajan en varias organizaciones y no están obligadas a contribuir a la iniciativa abierta. En la gestión de estas organizaciones, se usa una cantidad sustancial de “pastoreo de gatos”[^2]: quienes contribuyen su trabajo e integran la comunidad no trabajan bajo una estructura de autoridad formal que permita que cumplir con las tareas sea tan simple como seguir reglas y políticas de la inciativa abierta. En cambio, se necesita un enfoque de liderazgo de abajo hacia arriba, donde se fomenten los comportamiento mediante métodos alternativos a los de “palo y zanahoria”.
 
-This set of simple rules is applicable to open organizations that rely on contributors who may have other jobs or responsibilities, may work across various organizations, and otherwise are not obligated to contribute to the open effort. In managing these organizations, a substantial amount of “cat herding”[^2] is involved: Contributors and community members are not working under a formal authority structure that enables compliance-gaining to be as simple as rules and policies. Instead, a bottom-up approach to leadership is needed, where behavior is encouraged via alternative methods to “stick and carrots.”  
-
-These rules are imagined as rules for leaders working across organizations, though they can also be useful within larger organizations when no formal authority is held over participants. Inside of organizations it is important to be aware of existing power structures and how this kind of leading without formal authority can sometimes cause friction with those structures. Furthermore, leading in this way is very difficult: It requires resources, skill development, sensitivity to contributors’ and community members’ realities, navigation of existing organizational structures and social networks, and other demands. These “rules” are therefore more like guidelines or a toolkit to consult in developing this method of leadership.
+Estas reglas se conciben para personas que lideran distintas organizaciones, aunque también pueden ser útiles dentro de organizaciones más grandes cuando no se tiene autoridad formal sobre quienes participan de un proyecto. Dentro de las organizaciones es importante ser consciente de las estructuras de poder existentes y de cómo este tipo de liderazgo sin autoridad formal a veces puede causar fricción con esas estructuras. Además, liderar de esta manera es muy difícil: requiere recursos, desarrollo de habilidades, sensibilidad a las realidades de quienes contribyen e integran la comunidad, manejo de las estructuras organizacionales y capital social entre otros requisitos deseables. Por lo tanto, estas “reglas” son más bien como pautas o un conjunto de herramientas para consultar en el desarrollo de este tipo de liderazgo.
 
 1. **Establish and overcommunicate the project’s mission and vision[^3]**   
    1. The project’s mission and vision are what people / contributors come for.  
