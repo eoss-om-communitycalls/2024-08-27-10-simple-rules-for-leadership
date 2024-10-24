@@ -96,11 +96,16 @@ Estas reglas se conciben para personas que lideran distintas organizaciones, aun
     4. Los procesos de desvinculación deben ser una prioridad: diseña y actualiza procesos de manera intencional y periódica, incluso contactando a integrantes de la comunidad que ya no participan del proyecto
     5. Cuando las personas regresen, ¡dales la bienvenida!
 
-[^1]:  This resource was first developed by attendees at the August 26, 2024 Chan Zuckerberg Initiative community call for the Essential Open Source Software program. If you add to this document, please also add your name to the contributors list (alphabetically by last name). A list of additional contributors will be shared in a forthcoming GitHub repo, where you can also submit a contribution. 
+[^1]: Este recurso fue desarrollado por primera vez por quienes asistieron a la llamada comunitaria del 26 de agosto de 2024 del programa Software Esencial de Código Abierto de la Chan Zuckerberg Iniciative. Si agregas algo a este documento, agrega también tu nombre a la lista de autoría (en orden alfabético por apellido). Se compartirá una lista de quienes agreguen contribuciones adicionales en un futuro repositorio de GitHub, donde también puedes enviar tu contribución.
 
 [^2]:  Cat herding is an idiomatic English term related to organizing a group of people or entities that are not predisposed to being herded, such as cats. It is often used to talk about groups of individuals who don’t necessarily have a reason to “herd” being shepherded toward a common purpose or direction. 
 
+[^2]: Pastoreo de gatos (cat herding en inglés) es un término idiomático del inglés relacionado con la organización de un grupo de personas o entidades que no están predispuestas a ser pastoreadas, como los gatos. A menudo se usa para hablar de grupos de personas que son pastoreadas hacia un propósito o dirección común.
+
 [^3]:  We use "mission and vision" to refer to the set of high-level text used to define an organization, which can include a mission statement, a vision statement, a purpose statement, a values statement, etc.
+
+[^3]: Usamos "misión y visión" para referirnos al conjunto de texto de alto nivel que se usa para definir una organización, que puede incluir una declaración de misión, una declaración de visión, una declaración de propósito, una declaración de valores, etc.
+
 
 <!-- FOOTER & LOGOS Please do not modify below --> 
 ----
