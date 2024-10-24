@@ -2,28 +2,14 @@
   {
     "objectID": "es.html",
     "href": "es.html",
-    "title": "10 Reglas Simples para Liderazgo Sin Autoridad Formal",
+    "title": "10 reglas simples para lograr liderazgo sin autoridad formal",
     "section": "",
-    "text": "(In English]\nTexto para traducir 👇🏻\nThis set of simple rules is applicable to open organizations that rely on contributors who may have other jobs or responsibilities, may work across various organizations, and otherwise are not obligated to contribute to the open effort. In managing these organizations, a substantial amount of “cat herding”1 is involved: Contributors and community members are not working under a formal authority structure that enables compliance-gaining to be as simple as rules and policies. Instead, a bottom-up approach to leadership is needed, where behavior is encouraged via alternative methods to “stick and carrots.”\nThese rules are imagined as rules for leaders working across organizations, though they can also be useful within larger organizations when no formal authority is held over participants. Inside of organizations it is important to be aware of existing power structures and how this kind of leading without formal authority can sometimes cause friction with those structures. Furthermore, leading in this way is very difficult: It requires resources, skill development, sensitivity to contributors’ and community members’ realities, navigation of existing organizational structures and social networks, and other demands. These “rules” are therefore more like guidelines or a toolkit to consult in developing this method of leadership."
+    "text": "(In English]\nEste conjunto de reglas simples puede aplicarse a organizaciones abiertas cuyas contribuciones dependen de personas que pueden tener otros trabajos o responsabilidades, trabajan en varias organizaciones y no están obligadas a contribuir a la iniciativa abierta. En la gestión de estas organizaciones, es necesario saber “guiar gatos”1: quienes contribuyen su trabajo e integran la comunidad no trabajan bajo una estructura de autoridad formal que permita que cumplir con las tareas sea tan simple como seguir reglas y políticas de la inciativa abierta. En cambio, se necesita un enfoque de liderazgo de abajo hacia arriba, donde se fomenten los comportamiento mediante métodos alternativos a los incentivos via “palo y zanahoria”.\nEstas reglas se conciben para personas que lideran distintas organizaciones, aunque también pueden ser útiles dentro de organizaciones más grandes cuando no se tiene autoridad formal sobre quienes participan de un proyecto. Dentro de las organizaciones es importante ser consciente de las estructuras de poder existentes y de cómo este tipo de liderazgo sin autoridad formal a veces puede causar fricción con esas estructuras. Además, liderar de esta manera es muy difícil: requiere recursos, desarrollo de habilidades, sensibilidad a las realidades de quienes contribyen e integran la comunidad, manejo de las estructuras organizacionales y capital social entre otros requisitos deseables. Por lo tanto, estas “reglas” son más bien como pautas o un conjunto de herramientas para consultar en el desarrollo de este tipo de liderazgo."
   },
   {
     "objectID": "es.html#section",
     "href": "es.html#section",
-    "title": "10 Reglas Simples para Liderazgo Sin Autoridad Formal",
-    "section": "",
-    "text": "This resource was generated as part of CZI’s EOSS Community Calls during late 2024 with Organizational Mycology facilitating discussions, gathering input, and generating the final document. Participants in the calls, and open comment periods are given co-authorship in alphabetical order by last name."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "10 Simple Rules for Leadership Without Formal Authority",
-    "section": "",
-    "text": "(En Español)\n[To the initial contributors from the Community Call: We have taken the notes from the call, interpreted them, and come up with this “10 Simple Rules” style piece on leading projects in the absence of formal authority. Please take a look and edit any and all parts of it– this did not take us long, and we are not at all married to the list of rules or the descriptions. We welcome additions, revisions, exclusions, wholesale destruction… anything that better captures our conversation and will be useful to the broader open science community.]1\nThis set of simple rules is applicable to open organizations that rely on contributors who may have other jobs or responsibilities, may work across various organizations, and are not obligated to contribute to the open effort. In managing these organizations, a substantial amount of “cat herding” 2 is involved: Contributors and community members are not working under a formal authority structure that enables compliance-gaining to be as simple as rules and policies. Instead, a bottom-up approach to leadership is needed, where behavior is encouraged via alternative methods to “stick and carrots.”\nThese rules are imagined as rules for leaders working across organizations, though they can also be useful within larger organizations when no formal authority is held over participants. Inside of organizations it is important to be aware of existing power structures and how this kind of leading without formal authority can sometimes cause friction with those structures. Furthermore, leading in this way is very difficult: It requires resources, skill development, sensitivity to contributors’ and community members’ realities, navigation of existing organizational structures and social networks, and other demands. These “rules” are therefore more like guidelines or a toolkit to consult in developing this method of leadership."
-  },
-  {
-    "objectID": "index.html#section",
-    "href": "index.html#section",
-    "title": "10 Simple Rules for Leadership Without Formal Authority",
+    "title": "10 reglas simples para lograr liderazgo sin autoridad formal",
     "section": "",
     "text": "This resource was generated as part of CZI’s EOSS Community Calls during late 2024 with Organizational Mycology facilitating discussions, gathering input, and generating the final document. Participants in the calls, and open comment periods are given co-authorship in alphabetical order by last name."
   },
@@ -61,5 +47,19 @@
     "title": "Contributing",
     "section": "",
     "text": "The easiest way to get started is to file an issue to tell us about a spelling mistake, some awkward wording, or a factual error. This is a good way to introduce yourself and to meet some of our community members.\n\nIf you do not have a [GitHub][github] account, you can [send us comments by email][contact]. However, we will be able to respond more quickly if you use one of the other methods described below.\nIf you have a [GitHub][github] account, or are willing to [create one][github-join], but do not know how to use Git, you can report problems or suggest improvements by [creating an issue][issues]. This allows us to assign the item to someone and to respond to it in a threaded discussion.\nIf you are comfortable with Git, and would like to add or change material, you can submit a pull request (PR).\nWhen you make a contribution, please be sure to add your name to the list of contributors.\n\nThis contributor guide was adapted from that of Software Carpentry, The Carpentries\nThis contributor guide was adapted from that of Software Carpentry, The Carpentries"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "10 Simple Rules for Leadership Without Formal Authority",
+    "section": "",
+    "text": "(En Español)\n[To the initial contributors from the Community Call: We have taken the notes from the call, interpreted them, and come up with this “10 Simple Rules” style piece on leading projects in the absence of formal authority. Please take a look and edit any and all parts of it– this did not take us long, and we are not at all married to the list of rules or the descriptions. We welcome additions, revisions, exclusions, wholesale destruction… anything that better captures our conversation and will be useful to the broader open science community.]1\nThis set of simple rules is applicable to open organizations that rely on contributors who may have other jobs or responsibilities, may work across various organizations, and are not obligated to contribute to the open effort. In managing these organizations, a substantial amount of “cat herding” 2 is involved: Contributors and community members are not working under a formal authority structure that enables compliance-gaining to be as simple as rules and policies. Instead, a bottom-up approach to leadership is needed, where behavior is encouraged via alternative methods to “stick and carrots.”\nThese rules are imagined as rules for leaders working across organizations, though they can also be useful within larger organizations when no formal authority is held over participants. Inside of organizations it is important to be aware of existing power structures and how this kind of leading without formal authority can sometimes cause friction with those structures. Furthermore, leading in this way is very difficult: It requires resources, skill development, sensitivity to contributors’ and community members’ realities, navigation of existing organizational structures and social networks, and other demands. These “rules” are therefore more like guidelines or a toolkit to consult in developing this method of leadership."
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "10 Simple Rules for Leadership Without Formal Authority",
+    "section": "",
+    "text": "This resource was generated as part of CZI’s EOSS Community Calls during late 2024 with Organizational Mycology facilitating discussions, gathering input, and generating the final document. Participants in the calls, and open comment periods are given co-authorship in alphabetical order by last name."
   }
 ]
