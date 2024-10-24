@@ -23,6 +23,8 @@ citation-location: margin
 bibliography: bibliography.bib
 ---
 
+*Laura Ación created this translation on behalf of the [MetaDocencia](https://www.metadocencia.org/en) Contextualization Team.*
+
 ([En Español](/es))
 
 *\[To the initial contributors from the Community Call: We have taken the notes from the call, interpreted them, and come up with this [“10 Simple Rules” style piece](https://docs.google.com/document/d/1p6U8oiQLc3gFhvKb9vxtxyHEjqDIg2rj2v5jVtr6kZE/edit) on leading projects in the absence of formal authority. Please take a look and edit any and all parts of it– this did not take us long, and we are not at all married to the list of rules or the descriptions. We welcome additions, revisions, exclusions, wholesale destruction… anything that better captures our conversation and will be useful to the broader open science community.\]*[^1]
