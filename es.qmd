@@ -2,7 +2,7 @@
 title: "10 reglas simples para lograr liderazgo sin autoridad formal"
 subtitle: "Un recurso para personas que lideran proyectos de Código Abierto"
 authors: [ "Laura Ación", "Cat Allman", "Yani Bellini Saibene", "Henrik Bengtsson", "Beth Duckles", "Jonah Duckles", "Kate Hertweck", "Daniel S. Katz", "Dan Sholler", "Carol Willing"]
-date: "26 de agosto del 2024"
+date: "2024-08-26"
 format:
     html: 
       self-contained: true
