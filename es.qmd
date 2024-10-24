@@ -21,6 +21,9 @@ reference-location: margin
 citation-location: margin
 bibliography: bibliography.bib
 ---
+
+*Laura Acion creó esta traducción en nombre del Equipo de Contextualización de [MetaDocencia](https://www.metadocencia.org/).*
+
 ([In English](/)]
 
 Este conjunto de reglas simples puede aplicarse a organizaciones abiertas cuyas contribuciones dependen de personas que pueden tener otros trabajos o responsabilidades, trabajan en varias organizaciones y no están obligadas a contribuir a la iniciativa abierta. En la gestión de estas organizaciones, es necesario saber “guiar gatos”[^2]: quienes contribuyen su trabajo e integran la comunidad no trabajan bajo una estructura de autoridad formal que permita que cumplir con las tareas sea tan simple como seguir reglas y políticas de la inciativa abierta. En cambio, se necesita un enfoque de liderazgo de abajo hacia arriba, donde se fomenten los comportamiento mediante métodos alternativos a los incentivos via “palo y zanahoria”.
