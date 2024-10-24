@@ -22,7 +22,7 @@ citation-location: margin
 bibliography: bibliography.bib
 ---
 
-*Laura Acion creó esta traducción en nombre del Equipo de Contextualización de [MetaDocencia](https://www.metadocencia.org/).*
+*Laura Ación creó esta traducción en nombre del Equipo de Contextualización de [MetaDocencia](https://www.metadocencia.org/).*
 
 ([In English](/)]
 
