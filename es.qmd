@@ -23,7 +23,7 @@ bibliography: bibliography.bib
 ---
 ([In English](/)]
 
-Este conjunto de reglas simples puede aplicarse a organizaciones abiertas cuyas contribuciones dependen de personas que pueden tener otros trabajos o responsabilidades, trabajan en varias organizaciones y no están obligadas a contribuir a la iniciativa abierta. En la gestión de estas organizaciones, se usa una cantidad sustancial de “pastoreo de gatos”[^2]: quienes contribuyen su trabajo e integran la comunidad no trabajan bajo una estructura de autoridad formal que permita que cumplir con las tareas sea tan simple como seguir reglas y políticas de la inciativa abierta. En cambio, se necesita un enfoque de liderazgo de abajo hacia arriba, donde se fomenten los comportamiento mediante métodos alternativos a los de “palo y zanahoria”.
+Este conjunto de reglas simples puede aplicarse a organizaciones abiertas cuyas contribuciones dependen de personas que pueden tener otros trabajos o responsabilidades, trabajan en varias organizaciones y no están obligadas a contribuir a la iniciativa abierta. En la gestión de estas organizaciones, es necesario saber “guiar gatos”[^2]: quienes contribuyen su trabajo e integran la comunidad no trabajan bajo una estructura de autoridad formal que permita que cumplir con las tareas sea tan simple como seguir reglas y políticas de la inciativa abierta. En cambio, se necesita un enfoque de liderazgo de abajo hacia arriba, donde se fomenten los comportamiento mediante métodos alternativos a los de “palo y zanahoria”.
 
 Estas reglas se conciben para personas que lideran distintas organizaciones, aunque también pueden ser útiles dentro de organizaciones más grandes cuando no se tiene autoridad formal sobre quienes participan de un proyecto. Dentro de las organizaciones es importante ser consciente de las estructuras de poder existentes y de cómo este tipo de liderazgo sin autoridad formal a veces puede causar fricción con esas estructuras. Además, liderar de esta manera es muy difícil: requiere recursos, desarrollo de habilidades, sensibilidad a las realidades de quienes contribyen e integran la comunidad, manejo de las estructuras organizacionales y capital social entre otros requisitos deseables. Por lo tanto, estas “reglas” son más bien como pautas o un conjunto de herramientas para consultar en el desarrollo de este tipo de liderazgo.
 
@@ -96,15 +96,11 @@ Estas reglas se conciben para personas que lideran distintas organizaciones, aun
     4. Los procesos de desvinculación deben ser una prioridad: diseña y actualiza procesos de manera intencional y periódica, incluso contactando a integrantes de la comunidad que ya no participan del proyecto
     5. Cuando las personas regresen, ¡dales la bienvenida!
 
-[^1]: Este recurso fue desarrollado por primera vez por quienes asistieron a la llamada comunitaria del 26 de agosto de 2024 del programa Software Esencial de Código Abierto de la Chan Zuckerberg Iniciative. Si agregas algo a este documento, agrega también tu nombre a la lista de autoría (en orden alfabético por apellido). Se compartirá una lista de quienes agreguen contribuciones adicionales en un futuro repositorio de GitHub, donde también puedes enviar tu contribución.
+[^1]: Este recurso fue desarrollado por primera vez por quienes asistieron a la llamada comunitaria del 26 de agosto de 2024 del programa Software de Código Abierto Esencial para la Ciencia (Essencial Open Source Software for Science, del inglés) de la Chan Zuckerberg Iniciative. Si agregas algo a este documento, agrega también tu nombre a la lista de autoría (en orden alfabético por apellido). Se compartirá una lista de quienes agreguen contribuciones adicionales en un futuro repositorio de GitHub, donde también puedes enviar tu contribución.
 
-[^2]:  Cat herding is an idiomatic English term related to organizing a group of people or entities that are not predisposed to being herded, such as cats. It is often used to talk about groups of individuals who don’t necessarily have a reason to “herd” being shepherded toward a common purpose or direction. 
+[^2]: El original en inglés usa la expresión "cat herding", una expresión sin traducción acordada en el español. Se optó por traducirla como "guiar gatos" tratando de dar cuenta que se refiere a la organizar un grupo de personas o entidades que no están predispuestas a ser guiadas ordenadamente, como los gatos. A menudo esta expresión se usa para hablar de personas muy distintas que son lideradas hacia un propósito o dirección común.
 
-[^2]: Pastoreo de gatos (cat herding en inglés) es un término idiomático del inglés relacionado con la organización de un grupo de personas o entidades que no están predispuestas a ser pastoreadas, como los gatos. A menudo se usa para hablar de grupos de personas que son pastoreadas hacia un propósito o dirección común.
-
-[^3]:  We use "mission and vision" to refer to the set of high-level text used to define an organization, which can include a mission statement, a vision statement, a purpose statement, a values statement, etc.
-
-[^3]: Usamos "misión y visión" para referirnos al conjunto de texto de alto nivel que se usa para definir una organización, que puede incluir una declaración de misión, una declaración de visión, una declaración de propósito, una declaración de valores, etc.
+[^3]: Usamos "misión y visión" para referirnos a las descripciones de alto nivel que se usa para definir una organización. Estas pueden describir la misión, la visión, el propósito, los valores, etc.
 
 
 <!-- FOOTER & LOGOS Please do not modify below --> 
