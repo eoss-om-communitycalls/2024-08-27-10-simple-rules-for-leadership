@@ -1,8 +1,8 @@
 ---
-title: "10 Reglas Simples para Liderazgo Sin Autoridad Formal"
-subtitle: "A resource for Open Source Leaders"
+title: "10 reglas simples para lograr liderazgo sin autoridad formal"
+subtitle: "Un recurso para personas que lideran proyectos de Código Abierto"
 authors: [ "Laura Ación", "Cat Allman", "Yani Bellini Saibene", "Henrik Bengtsson", "Beth Duckles", "Jonah Duckles", "Kate Hertweck", "Daniel S. Katz", "Dan Sholler", "Carol Willing"]
-date: "August 26, 2024"
+date: "26 de agosto del 2024"
 format:
     html: 
       self-contained: true
@@ -23,86 +23,85 @@ bibliography: bibliography.bib
 ---
 ([In English](/)]
 
-Texto para traducir 👇🏻
+Este conjunto de reglas simples puede aplicarse a organizaciones abiertas cuyas contribuciones dependen de personas que pueden tener otros trabajos o responsabilidades, trabajan en varias organizaciones y no están obligadas a contribuir a la iniciativa abierta. En la gestión de estas organizaciones, es necesario saber “guiar gatos”[^2]: quienes contribuyen su trabajo e integran la comunidad no trabajan bajo una estructura de autoridad formal que permita que cumplir con las tareas sea tan simple como seguir reglas y políticas de la inciativa abierta. En cambio, se necesita un enfoque de liderazgo de abajo hacia arriba, donde se fomenten los comportamiento mediante métodos alternativos a los incentivos via “palo y zanahoria”.
 
-This set of simple rules is applicable to open organizations that rely on contributors who may have other jobs or responsibilities, may work across various organizations, and otherwise are not obligated to contribute to the open effort. In managing these organizations, a substantial amount of “cat herding”[^2] is involved: Contributors and community members are not working under a formal authority structure that enables compliance-gaining to be as simple as rules and policies. Instead, a bottom-up approach to leadership is needed, where behavior is encouraged via alternative methods to “stick and carrots.”  
+Estas reglas se conciben para personas que lideran distintas organizaciones, aunque también pueden ser útiles dentro de organizaciones más grandes cuando no se tiene autoridad formal sobre quienes participan de un proyecto. Dentro de las organizaciones es importante ser consciente de las estructuras de poder existentes y de cómo este tipo de liderazgo sin autoridad formal a veces puede causar fricción con esas estructuras. Además, liderar de esta manera es muy difícil: requiere recursos, desarrollo de habilidades, sensibilidad a las realidades de quienes contribyen e integran la comunidad, manejo de las estructuras organizacionales y capital social entre otros requisitos deseables. Por lo tanto, estas “reglas” son más bien como pautas o un conjunto de herramientas para consultar en el desarrollo de este tipo de liderazgo.
 
-These rules are imagined as rules for leaders working across organizations, though they can also be useful within larger organizations when no formal authority is held over participants. Inside of organizations it is important to be aware of existing power structures and how this kind of leading without formal authority can sometimes cause friction with those structures. Furthermore, leading in this way is very difficult: It requires resources, skill development, sensitivity to contributors’ and community members’ realities, navigation of existing organizational structures and social networks, and other demands. These “rules” are therefore more like guidelines or a toolkit to consult in developing this method of leadership.
+1. **Establecer y comunicar en detalle la misión y la visión del proyecto[^3]**
+    1. La misión y la visión del proyecto son las razones por las que se acercan quienes contribuyen al proyecto.
+    2. Articular una misión o visión puede ser el trabajo tanto de personas dentro de una estructura formal como de quien lidera la comunidad.
+    3. En algunos casos, quienes lideran deben generar consenso sobre cuál debería ser la misión o la visión o cómo debería cambiar. Esto es particularmente cierto cuando fue un grupo pequeño el que inició una organización en torno a un objetivo común.
+2. **Liderar con el ejemplo, tanto al realizar el trabajo técnico como al crear cultura**
+    1. Trabajar codo a codo con la comunidad será notado.
+    2. Apoyar y empoderar a las personas para que hagan el trabajo que quieren hacer. Darles a otras personas la oportunidad de liderar les permite aprender mientras lo hacen.
+    3. Comenzar con el supuesto de que quien lidera no tiene autoridad sobre nadie y que la autoridad se le otorga a través de la comunidad. Al contribuir a un proyecto, la comunidad es quien hace que las personas que lideran rindan cuentas sobre su trabajo
+    4. Piensa en las cualidades de liderazgo que más deseas y decide cómo transmitirlas. Por ejemplo, la amabilidad y la franqueza pueden modelarse.
+3. **Alinear los incentivos para contribuir y participar**
+    1. Considerar cuáles son los incentivos reales para que las personas contribuyan o participen.
+        1. ¿Qué ganan con la participación y el compromiso?
+        2. ¿Cómo hacen los incentivos para que tanto el proyecto como sus participantes avancen al mismo tiempo?
+        3. Quienes participan pueden tener distintos incentivos.
+    2. Cuantas más partes se benefician con el proyecto, mayor es su estabilidad.
+        1. Ejemplo: un proyecto de software se beneficia de las contribuciones de una persona que investiga en la academia, cuya investigación se beneficia del software y la industria o el Estado se benefician del avance científico (y, consecuentemente, pueden financiar aún más el software). En este ejemplo hay tres partes que se benefician en lugar de solo dos.
+        2. Financiar ciclos que generan inercia tales como ciclos de mantenimiento, que crean círculos virtuosos a medida que cada parte avanza. Por ejemplo:
+            1. El software gana funciones.
+            2. El Estado gana estándares e interoperabilidad.
+            3. La industria gana beneficios financieros y solicita más funciones.
+        3. Requiere más compromiso por parte de todas las partes.
+        4. Evita que las personas se vayan del proyecto llevándose recursos valiosos.
+4. **Crear capacidad de acción para quienes integran la comunidad**
+    1. Ayuda a quienes colaboran  encontrar un trabajo significativo para el proyecto en el que trabajas.
+        1. Optimiza el tiempo de quienes trabajan contigo.
+        2. Sé consciente de cómo se usa el tiempo de quienes integran la comunidad.
+    2. Aprovecha las razones por las que las personas deciden participar de la comunidad para crear capacidad de acción.
+    3. Trabaja para entender cómo la comunidad puede apoyar el crecimiento profesional, personal y de carrera de quienes la integran.
+    4. Trabaja activamente para eliminar las barreras para contribuir, desde la estructura institucional hasta la práctica cotidiana. Algunos ejemplos incluyen:
+        1. Ayudar a quienes desean colaborar a adquirir los recursos necesarios, como conectividad a Internet.
+        2. Proteger el tiempo de quienes colaboran con recursos insuficientes (por ejemplo, a través de honorarios).
+        3. Hacer que se pueda contribuir en distintos idiomas.
+    5. Crear y comunicar procesos de incorporación.
+    6. Crear mecanismos de rendición de cuentas para que quienes integran la comunidad puedan comentar desde su experiencia comunitaria en forma constructiva y segura.
+        1. Desarrollar vías para que quienes lideran la comunidad incluyan estos aportes en las decisiones sobre la comunidad.
+5. **Construir intencionalmente la “cultura” de ESTE grupo**
+    1. Construye normas de manera activa hablando abiertamente sobre cómo se conectan con la misión y la visión.
+        1. Documentar las normas de manera que sean accesibles y digeribles para la comunidad.
+        2. Revisar las normas documentadas con regularidad en función de los cambios en la comunidad.
+    2. Recluta a personas respetadas para que modelen y respeten las normas.
+    3. Mantén colectivamente las expectativas y pautas de la comunidad. Por ejemplo:
+        1. Comité de código de conducta vs. responsabilidad exclusiva de quien lidera el proyecto sobre las “infracciones”.
+        2. Hacer que las pautas de contribución sean claras y fáciles de encontrar.
+    4. Desarrolla sanciones graduadas para distintas infracciones.
+        1. Considerar cómo mantener a las personas comprometidas a medida que aprenden las normas/reglas.
+        2. Cuando sea posible, involucrar a la comunidad en el desarrollo de sanciones graduadas.
+6. **Fomentar la inclusión**
+    1. La seguridad psicológica es primordial.
+    2. Sabe qué no quieres en la dinámica de tu grupo y asegúrate de mencionar aspectos como el comportamiento tóxico o comportamientos grupales que pueden ser excluyentes.
+    3. No subestimes a las personas a las que ya tienes acceso, tienen habilidades y capacidades que pueden benecifiar a tu proyecto.
+7. **Empoderar a otras personas del grupo**
+    1. Crea vías para que quienes integran la comunidad avancen hacia roles de liderazgo. Asegúrate de que estén documentados explícitamente y sean fáciles de encontrar.
+    2. Anima a las personas a dar un paso adelante y hacer más de lo que quizás sepan que pueden hacer, siempre que estén interesadas en hacer más y estén disponibles (es decir, no las sobrecargues).
+8. **Escuchar y adaptarse para desarrollar la motivación de quienes contribuyen**
+    1. Comienza en el nivel donde están quienes contribuyen al proyecto.
+    2. ¿Qué quieren realmente de este compromiso?
+    3. ¿Qué quieres o necesitas de sus contribuciones?
+    4. Comprende que la vida profesional y personal de las personas cambia. También pueden cambiar su motivación y disponibilidad. 
+9. **Que sea fácil**
+    1. Si quieres que la gente se una a ti, haz que sea fácil unirse.
+    2. Si quieres dinero, haz que sea fácil pagarte.
+    3. Para comunicarte, haz que la comunicación sea accesible, simple, digerible y comprensible. Unirse a una comunidad no debería requerir una inversión muy grande.
+10. **Prever y prepararse para la rotación de la comunidad**
+    1. Trabaja para cultivar un entorno que busque prevenir el agotamiento de quienes colaboran.
+    2. La gente tendrá que irse o hacer otras cosas, esto no es algo malo. Si aún piensan en el proeycto con cariño cuando se van, es bueno para el grupo (por ejemplo, pueden difundir información positiva sobre el proyecto).
+    3. Gestión de la rotación: si anticipas que la gente se irá, tus sistemas/flujos de trabajo lo reflejaráns
+    4. Los procesos de desvinculación deben ser una prioridad: diseña y actualiza procesos de manera intencional y periódica, incluso contactando a integrantes de la comunidad que ya no participan del proyectos
+    5. Cuando las personas regresen, ¡dales la bienvenida!
 
-1. **Establish and overcommunicate the project’s mission and vision[^3]**   
-   1. The project’s mission and vision are what people / contributors come for.  
-   2. Articulating a mission or vision can be the work of both someone inside of a formal structure and also a leader who brings people together.   
-   3. In some cases, leaders must build consensus on what the mission/vision should be or how it should change. This is particularly true when small groups establish an organization together around a common goal.  
-2. **Lead by example, both in doing the technical work and creating culture**   
-   1. Doing the work alongside the community will be noticed.   
-   2. Support and empower people to do the work they want to do. Giving other people the opportunity to be a leader lets them learn as they do.   
-   3. Start with the assumption that the leader doesn’t have authority over anyone but authority is given to them through the community. The community will keep leadership accountable by deciding whether or not to contribute to the project.   
-   4. Consider the leadership qualities you most want and decide how to convey those. For example, the qualities of kindness and directness can be modeled.   
-3. **Align incentives for contribution and participation**  
-   1. Consider what the real incentives are for people to contribute / participate.   
-      1. What do they gain from participation and engagement?  
-      2. How do incentives advance your project and the people who are contributing at the same time?  
-      3. Different contributors may have different incentives.   
-   2. Win-win wins are more stable than just win-wins.  
-      1. Example: A software project benefits from the contributions of an academic researcher whose research benefits from the software and industry/government benefits from the science (who may then further fund the project).  
-      2. Funding flywheels such as sustainment loops that create virtuous cycles as each party moves things forward. For example:  
-         1. Software \- gains features.  
-         2. Government \- gains standards and interoperability.  
-         3. Industry \- gains financial benefits and requests more features.  
-      3. Requires more compromise on the part of all parties.  
-      4. Prevents people running off with resources.  
-4. **Create agency for your community members**   
-   1. Help contributors find meaningful work for the project you’re working on.  
-      1. Optimize the time of those who are working with you.  
-      2. Be conscious of how you use community member’s time.  
-   2. Draw on the reasons for contribution to create agency among the community.  
-   3. Work to understand how your community can support the career growth, professional growth, personal growth, and technical skill development of its members.  
-   4. Actively work to remove barriers to contribution, from structural to practical. Examples include:  
-      1. Helping potential contributors acquire necessary resources, such as Internet connectivity.  
-      2. Protecting underresourced contributor time (e.g., via honoraria).   
-      3. Making contribution accessible across languages.  
-   5. Create and communicate onboarding processes.  
-   6. Create accountability mechanisms for community members to give constructive feedback safely about their experience in the community.  
-      1. Develop avenues for implementing this feedback into leadership and community decisions.  
-5. **Intentionally build THIS group’s “culture”**  
-   1. Actively build norms by talking openly about how they connect to the mission and vision.   
-      1. Document norms in ways that are accessible and digestible for the community.  
-      2. Revisit documented norms regularly to revise based on changes in the community.  
-   2. Enlist respected people to model and uphold the norms.  
-   3. Collectively hold the community’s expectations and guidelines. For example:  
-      1. Code of Conduct committee vs. project lead’s’s sole responsibility over “violations.”  
-      2. Make contribution guidelines clear and findable.   
-   4. Develop graduated sanctions for any violations.   
-      1. Consider how to keep people engaged as they learn the norms / rules.  
-      2. When possible, involve the community in the development of graduated sanctions.  
-6. **Foster inclusivity**  
-   1. Psychological safety is paramount.   
-   2. Know what you don’t want in your group’s dynamics and be sure to bring up things like toxic behavior and in group behaviors that can be exclusionary.    
-   3. Don’t underestimate the people you already have access to, they have skills and abilities to draw from.    
-7. **Empower others in the group**   
-   1. Create pathways for community members to advance into leadership roles and ensure they are explicitly documented and findable.  
-   2. Encourage people to step up and do more than even they might know they can do, when they are interested in doing more and have the bandwidth (i.e., don’t overburden people).  
-8. **Listen and adapt to develop contributor motivation**  
-   1. Start where people are.   
-   2. What do they actually want out of this engagement?  
-   3. What do you want / need out of their contributions?  
-   4. Understand that individuals’ professional / personal lives change, and so too might their motivation and availability.  
-9. **Make it easy**   
-   1. If you want people to join you, make it easy to join.   
-   2. If you would like money, make it easy to pay you.   
-   3. To communicate, make the communication accessible, simple, digestible, and understandable. Joining a community should not require substantial investment.  
-10. **Expect and prepare for community turnover**  
-    1. Work to cultivate an environment that seeks to prevent contributor burnout  
-    2. People will need to leave/do other things, this is not a bad thing. If they still think fondly of you when they leave, it’s good for the group (e.g., they may spread positive information about your project)  
-    3. Managing turnover \- if you’re already anticipating that people will leave, your systems/workflows will reflect that  
-    4. Offboarding processes should be top-of-mind: Intentionally design and regularly update processes, including by reaching out to formerly active community members  
-    5. Be welcoming when people come back\!
+[^1]: Este recurso fue desarrollado por primera vez por quienes asistieron a la llamada comunitaria del 26 de agosto de 2024 del programa Software de Código Abierto Esencial para la Ciencia (Essencial Open Source Software for Science, del inglés) de la Chan Zuckerberg Iniciative. Si agregas algo a este documento, agrega también tu nombre a la lista de autoría (en orden alfabético por apellido). Se compartirá una lista de quienes agreguen contribuciones adicionales en un futuro repositorio de GitHub, donde también puedes enviar tu contribución.
 
-[^1]:  This resource was first developed by attendees at the August 26, 2024 Chan Zuckerberg Initiative community call for the Essential Open Source Software program. If you add to this document, please also add your name to the contributors list (alphabetically by last name). A list of additional contributors will be shared in a forthcoming GitHub repo, where you can also submit a contribution. 
+[^2]: El original en inglés usa la expresión "cat herding", una expresión sin traducción acordada para español. Se optó por traducirla como "guiar gatos" para indicar que se refiere a organizar un grupo de personas o entidades que, como los gatos, no están predispuestas a ser guiadas ordenadamente. En inglés, esta expresión se usa para hablar de personas muy distintas que son lideradas hacia un propósito o dirección común.
 
-[^2]:  Cat herding is an idiomatic English term related to organizing a group of people or entities that are not predisposed to being herded, such as cats. It is often used to talk about groups of individuals who don’t necessarily have a reason to “herd” being shepherded toward a common purpose or direction. 
+[^3]: Usamos "misión y visión" para referirnos a las descripciones de alto nivel que se usa para definir una organización. Estas pueden describir la misión, la visión, el propósito, los valores, etc.
 
-[^3]:  We use "mission and vision" to refer to the set of high-level text used to define an organization, which can include a mission statement, a vision statement, a purpose statement, a values statement, etc.
 
 <!-- FOOTER & LOGOS Please do not modify below --> 
 ----
