@@ -23,7 +23,7 @@ bibliography: bibliography.bib
 ---
 ([In English](/)]
 
-Este conjunto de reglas simples puede aplicarse a organizaciones abiertas cuyas contribuciones dependen de personas que pueden tener otros trabajos o responsabilidades, trabajan en varias organizaciones y no están obligadas a contribuir a la iniciativa abierta. En la gestión de estas organizaciones, es necesario saber “guiar gatos”[^2]: quienes contribuyen su trabajo e integran la comunidad no trabajan bajo una estructura de autoridad formal que permita que cumplir con las tareas sea tan simple como seguir reglas y políticas de la inciativa abierta. En cambio, se necesita un enfoque de liderazgo de abajo hacia arriba, donde se fomenten los comportamiento mediante métodos alternativos a los de “palo y zanahoria”.
+Este conjunto de reglas simples puede aplicarse a organizaciones abiertas cuyas contribuciones dependen de personas que pueden tener otros trabajos o responsabilidades, trabajan en varias organizaciones y no están obligadas a contribuir a la iniciativa abierta. En la gestión de estas organizaciones, es necesario saber “guiar gatos”[^2]: quienes contribuyen su trabajo e integran la comunidad no trabajan bajo una estructura de autoridad formal que permita que cumplir con las tareas sea tan simple como seguir reglas y políticas de la inciativa abierta. En cambio, se necesita un enfoque de liderazgo de abajo hacia arriba, donde se fomenten los comportamiento mediante métodos alternativos a los incentivos via “palo y zanahoria”.
 
 Estas reglas se conciben para personas que lideran distintas organizaciones, aunque también pueden ser útiles dentro de organizaciones más grandes cuando no se tiene autoridad formal sobre quienes participan de un proyecto. Dentro de las organizaciones es importante ser consciente de las estructuras de poder existentes y de cómo este tipo de liderazgo sin autoridad formal a veces puede causar fricción con esas estructuras. Además, liderar de esta manera es muy difícil: requiere recursos, desarrollo de habilidades, sensibilidad a las realidades de quienes contribyen e integran la comunidad, manejo de las estructuras organizacionales y capital social entre otros requisitos deseables. Por lo tanto, estas “reglas” son más bien como pautas o un conjunto de herramientas para consultar en el desarrollo de este tipo de liderazgo.
 
@@ -32,7 +32,7 @@ Estas reglas se conciben para personas que lideran distintas organizaciones, aun
     2. Articular una misión o visión puede ser el trabajo tanto de personas dentro de una estructura formal como de quien lidera la comunidad.
     3. En algunos casos, quienes lideran deben generar consenso sobre cuál debería ser la misión o la visión o cómo debería cambiar. Esto es particularmente cierto cuando fue un grupo pequeño el que inició una organización en torno a un objetivo común.
 2. **Liderar con el ejemplo, tanto al realizar el trabajo técnico como al crear cultura**
-    1. Trabajo codo a codo con la comunidad será notado.
+    1. Trabajar codo a codo con la comunidad será notado.
     2. Apoyar y empoderar a las personas para que hagan el trabajo que quieren hacer. Darles a otras personas la oportunidad de liderar les permite aprender mientras lo hacen.
     3. Comenzar con el supuesto de que quien lidera no tiene autoridad sobre nadie y que la autoridad se le otorga a través de la comunidad. Al contribuir a un proyecto, la comunidad es quien hace que las personas que lideran rindan cuentas sobre su trabajo
     4. Piensa en las cualidades de liderazgo que más deseas y decide cómo transmitirlas. Por ejemplo, la amabilidad y la franqueza pueden modelarse.
@@ -42,35 +42,35 @@ Estas reglas se conciben para personas que lideran distintas organizaciones, aun
         2. ¿Cómo hacen los incentivos para que tanto el proyecto como sus participantes avancen al mismo tiempo?
         3. Quienes participan pueden tener distintos incentivos.
     2. Cuantas más partes se benefician con el proyecto, mayor es su estabilidad.
-        1. Ejemplo: un proyecto de software se beneficia de las contribuciones de una persona que investiga en la academia, cuya investigación se beneficia del software y la industria o el gobierno se benefician del avance científico (y, consecuentemente, pueden financiar aún más el software). En este ejemplo hay dos partes que se benefician en lugar de solo dos.
+        1. Ejemplo: un proyecto de software se beneficia de las contribuciones de una persona que investiga en la academia, cuya investigación se beneficia del software y la industria o el Estado se benefician del avance científico (y, consecuentemente, pueden financiar aún más el software). En este ejemplo hay tres partes que se benefician en lugar de solo dos.
         2. Financiar ciclos que generan inercia tales como ciclos de mantenimiento, que crean círculos virtuosos a medida que cada parte avanza. Por ejemplo:
             1. El software gana funciones.
-            2. El gobierno gana estándares e interoperabilidad.
+            2. El Estado gana estándares e interoperabilidad.
             3. La industria gana beneficios financieros y solicita más funciones.
         3. Requiere más compromiso por parte de todas las partes.
-        4. Evita que la gente se vaya del proyecto llevándose recursos valiosos.
+        4. Evita que las personas se vayan del proyecto llevándose recursos valiosos.
 4. **Crear capacidad de acción para quienes integran la comunidad**
-    1. Ayudar a quienes colaboran  encontrar un trabajo significativo para el proyecto en el que trabajas.
-        1. Optimizar el tiempo de quienes trabajan contigo.
-        2. Ser consciente de cómo se usa el tiempo de quienes integran la comunidad.
-    2. Aprovechar las razones por las que personas deciden participar de la comunidad para crear capacidad de acción.
-    3. Trabajar para entender cómo la comunidad puede apoyar el crecimiento profesional, personal y de carrera de quienes la integran.
-    4. Trabajar activamente para eliminar las barreras para contribuir, desde la estructura institucional hasta práctica cotidiana. Algunos ejemplos incluyen:
-        1. Ayudar quienes desean colaborar a adquirir los recursos necesarios, como conectividad a Internet.
+    1. Ayuda a quienes colaboran  encontrar un trabajo significativo para el proyecto en el que trabajas.
+        1. Optimiza el tiempo de quienes trabajan contigo.
+        2. Sé consciente de cómo se usa el tiempo de quienes integran la comunidad.
+    2. Aprovecha las razones por las que las personas deciden participar de la comunidad para crear capacidad de acción.
+    3. Trabaja para entender cómo la comunidad puede apoyar el crecimiento profesional, personal y de carrera de quienes la integran.
+    4. Trabaja activamente para eliminar las barreras para contribuir, desde la estructura institucional hasta la práctica cotidiana. Algunos ejemplos incluyen:
+        1. Ayudar a quienes desean colaborar a adquirir los recursos necesarios, como conectividad a Internet.
         2. Proteger el tiempo de quienes colaboran con recursos insuficientes (por ejemplo, a través de honorarios).
         3. Hacer que se pueda contribuir en distintos idiomas.
     5. Crear y comunicar procesos de incorporación.
     6. Crear mecanismos de rendición de cuentas para que quienes integran la comunidad puedan comentar desde su experiencia comunitaria en forma constructiva y segura.
         1. Desarrollar vías para que quienes lideran la comunidad incluyan estos aportes en las decisiones sobre la comunidad.
 5. **Construir intencionalmente la “cultura” de ESTE grupo**
-    1. Construir normas de manera activa hablando abiertamente sobre cómo se conectan con la misión y la visión.
+    1. Construye normas de manera activa hablando abiertamente sobre cómo se conectan con la misión y la visión.
         1. Documentar las normas de manera que sean accesibles y digeribles para la comunidad.
         2. Revisar las normas documentadas con regularidad en función de los cambios en la comunidad.
-    2. Reclutar a personas respetadas para que modelen y respeten las normas.
-    3. Mantener colectivamente las expectativas y pautas de la comunidad. Por ejemplo:
+    2. Recluta a personas respetadas para que modelen y respeten las normas.
+    3. Mantén colectivamente las expectativas y pautas de la comunidad. Por ejemplo:
         1. Comité de código de conducta vs. responsabilidad exclusiva de quien lidera el proyecto sobre las “infracciones”.
         2. Hacer que las pautas de contribución sean claras y fáciles de encontrar.
-    4. Desarrollar sanciones graduadas para distintas infracciones.
+    4. Desarrolla sanciones graduadas para distintas infracciones.
         1. Considerar cómo mantener a las personas comprometidas a medida que aprenden las normas/reglas.
         2. Cuando sea posible, involucrar a la comunidad en el desarrollo de sanciones graduadas.
 6. **Fomentar la inclusión**
@@ -79,8 +79,8 @@ Estas reglas se conciben para personas que lideran distintas organizaciones, aun
     3. No subestimes a las personas a las que ya tienes acceso, tienen habilidades y capacidades que pueden benecifiar a tu proyecto.
 7. **Empoderar a otras personas del grupo**
     1. Crea vías para que quienes integran la comunidad avancen hacia roles de liderazgo. Asegúrate de que estén documentados explícitamente y sean fáciles de encontrar.
-    2. Anima a las personas a dar un paso adelante y hacer más de lo que podrían saber que pueden hacer, siempre que estén interesadas en hacer más y estén disponibles (es decir, no las sobrecargues).
-8. **Escuchar y adaptarse para desarrollar la motivación de queines contribuyen**
+    2. Anima a las personas a dar un paso adelante y hacer más de lo que quizás sepan que pueden hacer, siempre que estén interesadas en hacer más y estén disponibles (es decir, no las sobrecargues).
+8. **Escuchar y adaptarse para desarrollar la motivación de quienes contribuyen**
     1. Comienza en el nivel donde están quienes contribuyen al proyecto.
     2. ¿Qué quieren realmente de este compromiso?
     3. ¿Qué quieres o necesitas de sus contribuciones?
@@ -88,17 +88,17 @@ Estas reglas se conciben para personas que lideran distintas organizaciones, aun
 9. **Que sea fácil**
     1. Si quieres que la gente se una a ti, haz que sea fácil unirse.
     2. Si quieres dinero, haz que sea fácil pagarte.
-    3. Para comunicarte, haz que la comunicación sea accesible, simple, digerible y comprensible. Unirse a una comunidad no debería requerir una inversión muy grande de tiempo.
+    3. Para comunicarte, haz que la comunicación sea accesible, simple, digerible y comprensible. Unirse a una comunidad no debería requerir una inversión muy grande.
 10. **Prever y prepararse para la rotación de la comunidad**
-    1. Trabaja para cultivar un entorno que busque prevenir el agotamiento de quienes colaboran
-    2. La gente tendrá que irse o hacer otras cosas, esto no es algo malo. Si aún piensan en ti con cariño cuando se van, es bueno para el grupo (por ejemplo, pueden difundir información positiva sobre tu proyecto)
-    3. Gestión de la rotación: si ya estás anticipando que la gente se irá, tus sistemas/flujos de trabajo lo reflejarán
-    4. Los procesos de desvinculación deben ser una prioridad: diseña y actualiza procesos de manera intencional y periódica, incluso contactando a integrantes de la comunidad que ya no participan del proyecto
+    1. Trabaja para cultivar un entorno que busque prevenir el agotamiento de quienes colaboran.
+    2. La gente tendrá que irse o hacer otras cosas, esto no es algo malo. Si aún piensan en el proeycto con cariño cuando se van, es bueno para el grupo (por ejemplo, pueden difundir información positiva sobre el proyecto).
+    3. Gestión de la rotación: si anticipas que la gente se irá, tus sistemas/flujos de trabajo lo reflejaráns
+    4. Los procesos de desvinculación deben ser una prioridad: diseña y actualiza procesos de manera intencional y periódica, incluso contactando a integrantes de la comunidad que ya no participan del proyectos
     5. Cuando las personas regresen, ¡dales la bienvenida!
 
 [^1]: Este recurso fue desarrollado por primera vez por quienes asistieron a la llamada comunitaria del 26 de agosto de 2024 del programa Software de Código Abierto Esencial para la Ciencia (Essencial Open Source Software for Science, del inglés) de la Chan Zuckerberg Iniciative. Si agregas algo a este documento, agrega también tu nombre a la lista de autoría (en orden alfabético por apellido). Se compartirá una lista de quienes agreguen contribuciones adicionales en un futuro repositorio de GitHub, donde también puedes enviar tu contribución.
 
-[^2]: El original en inglés usa la expresión "cat herding", una expresión sin traducción acordada en el español. Se optó por traducirla como "guiar gatos" tratando de dar cuenta que se refiere a la organizar un grupo de personas o entidades que no están predispuestas a ser guiadas ordenadamente, como los gatos. A menudo esta expresión se usa para hablar de personas muy distintas que son lideradas hacia un propósito o dirección común.
+[^2]: El original en inglés usa la expresión "cat herding", una expresión sin traducción acordada para español. Se optó por traducirla como "guiar gatos" para indicar que se refiere a organizar un grupo de personas o entidades que, como los gatos, no están predispuestas a ser guiadas ordenadamente. En inglés, esta expresión se usa para hablar de personas muy distintas que son lideradas hacia un propósito o dirección común.
 
 [^3]: Usamos "misión y visión" para referirnos a las descripciones de alto nivel que se usa para definir una organización. Estas pueden describir la misión, la visión, el propósito, los valores, etc.
 
