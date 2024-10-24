@@ -27,15 +27,15 @@ Este conjunto de reglas simples puede aplicarse a organizaciones abiertas cuyas 
 
 Estas reglas se conciben para personas que lideran distintas organizaciones, aunque también pueden ser útiles dentro de organizaciones más grandes cuando no se tiene autoridad formal sobre quienes participan de un proyecto. Dentro de las organizaciones es importante ser consciente de las estructuras de poder existentes y de cómo este tipo de liderazgo sin autoridad formal a veces puede causar fricción con esas estructuras. Además, liderar de esta manera es muy difícil: requiere recursos, desarrollo de habilidades, sensibilidad a las realidades de quienes contribyen e integran la comunidad, manejo de las estructuras organizacionales y capital social entre otros requisitos deseables. Por lo tanto, estas “reglas” son más bien como pautas o un conjunto de herramientas para consultar en el desarrollo de este tipo de liderazgo.
 
-1. **Establish and overcommunicate the project’s mission and vision[^3]**   
-   1. The project’s mission and vision are what people / contributors come for.  
-   2. Articulating a mission or vision can be the work of both someone inside of a formal structure and also a leader who brings people together.   
-   3. In some cases, leaders must build consensus on what the mission/vision should be or how it should change. This is particularly true when small groups establish an organization together around a common goal.  
-2. **Lead by example, both in doing the technical work and creating culture**   
-   1. Doing the work alongside the community will be noticed.   
-   2. Support and empower people to do the work they want to do. Giving other people the opportunity to be a leader lets them learn as they do.   
-   3. Start with the assumption that the leader doesn’t have authority over anyone but authority is given to them through the community. The community will keep leadership accountable by deciding whether or not to contribute to the project.   
-   4. Consider the leadership qualities you most want and decide how to convey those. For example, the qualities of kindness and directness can be modeled.   
+1. **Establecer y comunicar en detalle la misión y la visión del proyecto[^3]**
+    1. La misión y la visión del proyecto son las razones por las que se acercan quienes contribuyen al proyecto.
+    2. Articular una misión o visión puede ser el trabajo tanto de personas dentro de una estructura formal como de quien lidera la comunidad.
+    3. En algunos casos, quienes lideran deben generar consenso sobre cuál debería ser la misión o la visión o cómo debería cambiar. Esto es particularmente cierto cuando fue un grupo pequeño el que inició una organización en torno a un objetivo común.
+2. **Liderar con el ejemplo, tanto al realizar el trabajo técnico como al crear cultura**
+    1. Trabajo codo a codo con la comunidad será notado.
+    2. Apoyar y empoderar a las personas para que hagan el trabajo que quieren hacer. Darles a otras personas la oportunidad de liderar les permite aprender mientras lo hacen.
+    3. Comenzar con el supuesto de que quien lidera no tiene autoridad sobre nadie y que la autoridad se le otorga a través de la comunidad. Al contribuir a un proyecto, la comunidad es quien hace que las personas que lideran rindan cuentas sobre su trabajo
+    4. Piensa en las cualidades de liderazgo que más deseas y decide cómo transmitirlas. Por ejemplo, la amabilidad y la franqueza pueden modelarse.
 3. **Align incentives for contribution and participation**  
    1. Consider what the real incentives are for people to contribute / participate.   
       1. What do they gain from participation and engagement?  
@@ -49,19 +49,32 @@ Estas reglas se conciben para personas que lideran distintas organizaciones, aun
          3. Industry \- gains financial benefits and requests more features.  
       3. Requires more compromise on the part of all parties.  
       4. Prevents people running off with resources.  
-4. **Create agency for your community members**   
-   1. Help contributors find meaningful work for the project you’re working on.  
-      1. Optimize the time of those who are working with you.  
-      2. Be conscious of how you use community member’s time.  
-   2. Draw on the reasons for contribution to create agency among the community.  
-   3. Work to understand how your community can support the career growth, professional growth, personal growth, and technical skill development of its members.  
-   4. Actively work to remove barriers to contribution, from structural to practical. Examples include:  
-      1. Helping potential contributors acquire necessary resources, such as Internet connectivity.  
-      2. Protecting underresourced contributor time (e.g., via honoraria).   
-      3. Making contribution accessible across languages.  
-   5. Create and communicate onboarding processes.  
-   6. Create accountability mechanisms for community members to give constructive feedback safely about their experience in the community.  
-      1. Develop avenues for implementing this feedback into leadership and community decisions.  
+3. **Alinear los incentivos para contribuir y participar**
+    1. Considerar cuáles son los incentivos reales para que las personas contribuyan o participen.
+        1. ¿Qué ganan con la participación y el compromiso?
+        2. ¿Cómo hacen los incentivos para que tanto el proyecto como sus participantes avancen al mismo tiempo?
+        3. Quienes participan pueden tener distintos incentivos.
+    2. Cuantas más partes se benefician con el proyecto, mayor es su estabilidad.
+        1. Ejemplo: un proyecto de software se beneficia de las contribuciones de una persona que investiga en la academia, cuya investigación se beneficia del software y la industria o el gobierno se benefician del avance científico (y, consecuentemente, pueden financiar aún más el software). En este ejemplo hay dos partes que se benefician en lugar de solo dos.
+        2. Financiar ciclos que generan inercia tales como ciclos de mantenimiento, que crean círculos virtuosos a medida que cada parte avanza. Por ejemplo:
+            1. El software gana funciones.
+            2. El gobierno gana estándares e interoperabilidad.
+            3. La industria gana beneficios financieros y solicita más funciones.
+        3. Requiere más compromiso por parte de todas las partes.
+        4. Evita que la gente se vaya del proyecto llevándose recursos valiosos.
+4. **Crear capacidad de acción para quienes integran la comunidad**
+    1. Ayudar a quienes colaboran  encontrar un trabajo significativo para el proyecto en el que trabajas.
+        1. Optimizar el tiempo de quienes trabajan contigo.
+        2. Ser consciente de cómo se usa el tiempo de quienes integran la comunidad.
+    2. Aprovechar las razones por las que personas deciden participar de la comunidad para crear capacidad de acción.
+    3. Trabajar para entender cómo la comunidad puede apoyar el crecimiento profesional, personal y de carrera de quienes la integran.
+    4. Trabajar activamente para eliminar las barreras para contribuir, desde la estructura institucional hasta práctica cotidiana. Algunos ejemplos incluyen:
+        1. Ayudar quienes desean colaborar a adquirir los recursos necesarios, como conectividad a Internet.
+        2. Proteger el tiempo de quienes colaboran con recursos insuficientes (por ejemplo, a través de honorarios).
+        3. Hacer que se pueda contribuir en distintos idiomas.
+    5. Crear y comunicar procesos de incorporación.
+    6. Crear mecanismos de rendición de cuentas para que quienes integran la comunidad puedan comentar desde su experiencia comunitaria en forma constructiva y segura.
+        1. Desarrollar vías para que quienes lideran la comunidad incluyan estos aportes en las decisiones sobre la comunidad.
 5. **Intentionally build THIS group’s “culture”**  
    1. Actively build norms by talking openly about how they connect to the mission and vision.   
       1. Document norms in ways that are accessible and digestible for the community.  
