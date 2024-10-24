@@ -36,19 +36,6 @@ Estas reglas se conciben para personas que lideran distintas organizaciones, aun
     2. Apoyar y empoderar a las personas para que hagan el trabajo que quieren hacer. Darles a otras personas la oportunidad de liderar les permite aprender mientras lo hacen.
     3. Comenzar con el supuesto de que quien lidera no tiene autoridad sobre nadie y que la autoridad se le otorga a través de la comunidad. Al contribuir a un proyecto, la comunidad es quien hace que las personas que lideran rindan cuentas sobre su trabajo
     4. Piensa en las cualidades de liderazgo que más deseas y decide cómo transmitirlas. Por ejemplo, la amabilidad y la franqueza pueden modelarse.
-3. **Align incentives for contribution and participation**  
-   1. Consider what the real incentives are for people to contribute / participate.   
-      1. What do they gain from participation and engagement?  
-      2. How do incentives advance your project and the people who are contributing at the same time?  
-      3. Different contributors may have different incentives.   
-   2. Win-win wins are more stable than just win-wins.  
-      1. Example: A software project benefits from the contributions of an academic researcher whose research benefits from the software and industry/government benefits from the science (who may then further fund the project).  
-      2. Funding flywheels such as sustainment loops that create virtuous cycles as each party moves things forward. For example:  
-         1. Software \- gains features.  
-         2. Government \- gains standards and interoperability.  
-         3. Industry \- gains financial benefits and requests more features.  
-      3. Requires more compromise on the part of all parties.  
-      4. Prevents people running off with resources.  
 3. **Alinear los incentivos para contribuir y participar**
     1. Considerar cuáles son los incentivos reales para que las personas contribuyan o participen.
         1. ¿Qué ganan con la participación y el compromiso?
@@ -75,39 +62,39 @@ Estas reglas se conciben para personas que lideran distintas organizaciones, aun
     5. Crear y comunicar procesos de incorporación.
     6. Crear mecanismos de rendición de cuentas para que quienes integran la comunidad puedan comentar desde su experiencia comunitaria en forma constructiva y segura.
         1. Desarrollar vías para que quienes lideran la comunidad incluyan estos aportes en las decisiones sobre la comunidad.
-5. **Intentionally build THIS group’s “culture”**  
-   1. Actively build norms by talking openly about how they connect to the mission and vision.   
-      1. Document norms in ways that are accessible and digestible for the community.  
-      2. Revisit documented norms regularly to revise based on changes in the community.  
-   2. Enlist respected people to model and uphold the norms.  
-   3. Collectively hold the community’s expectations and guidelines. For example:  
-      1. Code of Conduct committee vs. project lead’s’s sole responsibility over “violations.”  
-      2. Make contribution guidelines clear and findable.   
-   4. Develop graduated sanctions for any violations.   
-      1. Consider how to keep people engaged as they learn the norms / rules.  
-      2. When possible, involve the community in the development of graduated sanctions.  
-6. **Foster inclusivity**  
-   1. Psychological safety is paramount.   
-   2. Know what you don’t want in your group’s dynamics and be sure to bring up things like toxic behavior and in group behaviors that can be exclusionary.    
-   3. Don’t underestimate the people you already have access to, they have skills and abilities to draw from.    
-7. **Empower others in the group**   
-   1. Create pathways for community members to advance into leadership roles and ensure they are explicitly documented and findable.  
-   2. Encourage people to step up and do more than even they might know they can do, when they are interested in doing more and have the bandwidth (i.e., don’t overburden people).  
-8. **Listen and adapt to develop contributor motivation**  
-   1. Start where people are.   
-   2. What do they actually want out of this engagement?  
-   3. What do you want / need out of their contributions?  
-   4. Understand that individuals’ professional / personal lives change, and so too might their motivation and availability.  
-9. **Make it easy**   
-   1. If you want people to join you, make it easy to join.   
-   2. If you would like money, make it easy to pay you.   
-   3. To communicate, make the communication accessible, simple, digestible, and understandable. Joining a community should not require substantial investment.  
-10. **Expect and prepare for community turnover**  
-    1. Work to cultivate an environment that seeks to prevent contributor burnout  
-    2. People will need to leave/do other things, this is not a bad thing. If they still think fondly of you when they leave, it’s good for the group (e.g., they may spread positive information about your project)  
-    3. Managing turnover \- if you’re already anticipating that people will leave, your systems/workflows will reflect that  
-    4. Offboarding processes should be top-of-mind: Intentionally design and regularly update processes, including by reaching out to formerly active community members  
-    5. Be welcoming when people come back\!
+5. **Construir intencionalmente la “cultura” de ESTE grupo**
+    1. Construir normas de manera activa hablando abiertamente sobre cómo se conectan con la misión y la visión.
+        1. Documentar las normas de manera que sean accesibles y digeribles para la comunidad.
+        2. Revisar las normas documentadas con regularidad en función de los cambios en la comunidad.
+    2. Reclutar a personas respetadas para que modelen y respeten las normas.
+    3. Mantener colectivamente las expectativas y pautas de la comunidad. Por ejemplo:
+        1. Comité de código de conducta vs. responsabilidad exclusiva de quien lidera el proyecto sobre las “infracciones”.
+        2. Hacer que las pautas de contribución sean claras y fáciles de encontrar.
+    4. Desarrollar sanciones graduadas para distintas infracciones.
+        1. Considerar cómo mantener a las personas comprometidas a medida que aprenden las normas/reglas.
+        2. Cuando sea posible, involucrar a la comunidad en el desarrollo de sanciones graduadas.
+6. **Fomentar la inclusión**
+    1. La seguridad psicológica es primordial.
+    2. Sabe qué no quieres en la dinámica de tu grupo y asegúrate de mencionar aspectos como el comportamiento tóxico o comportamientos grupales que pueden ser excluyentes.
+    3. No subestimes a las personas a las que ya tienes acceso, tienen habilidades y capacidades que pueden benecifiar a tu proyecto.
+7. **Empoderar a otras personas del grupo**
+    1. Crea vías para que quienes integran la comunidad avancen hacia roles de liderazgo. Asegúrate de que estén documentados explícitamente y sean fáciles de encontrar.
+    2. Anima a las personas a dar un paso adelante y hacer más de lo que podrían saber que pueden hacer, siempre que estén interesadas en hacer más y estén disponibles (es decir, no las sobrecargues).
+8. **Escuchar y adaptarse para desarrollar la motivación de queines contribuyen**
+    1. Comienza en el nivel donde están quienes contribuyen al proyecto.
+    2. ¿Qué quieren realmente de este compromiso?
+    3. ¿Qué quieres o necesitas de sus contribuciones?
+    4. Comprende que la vida profesional y personal de las personas cambia. También pueden cambiar su motivación y disponibilidad. 
+9. **Que sea fácil**
+    1. Si quieres que la gente se una a ti, haz que sea fácil unirse.
+    2. Si quieres dinero, haz que sea fácil pagarte.
+    3. Para comunicarte, haz que la comunicación sea accesible, simple, digerible y comprensible. Unirse a una comunidad no debería requerir una inversión muy grande de tiempo.
+10. **Prever y prepararse para la rotación de la comunidad**
+    1. Trabaja para cultivar un entorno que busque prevenir el agotamiento de quienes colaboran
+    2. La gente tendrá que irse o hacer otras cosas, esto no es algo malo. Si aún piensan en ti con cariño cuando se van, es bueno para el grupo (por ejemplo, pueden difundir información positiva sobre tu proyecto)
+    3. Gestión de la rotación: si ya estás anticipando que la gente se irá, tus sistemas/flujos de trabajo lo reflejarán
+    4. Los procesos de desvinculación deben ser una prioridad: diseña y actualiza procesos de manera intencional y periódica, incluso contactando a integrantes de la comunidad que ya no participan del proyecto
+    5. Cuando las personas regresen, ¡dales la bienvenida!
 
 [^1]:  This resource was first developed by attendees at the August 26, 2024 Chan Zuckerberg Initiative community call for the Essential Open Source Software program. If you add to this document, please also add your name to the contributors list (alphabetically by last name). A list of additional contributors will be shared in a forthcoming GitHub repo, where you can also submit a contribution. 
 
