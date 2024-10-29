@@ -37,7 +37,7 @@ Estas reglas se conciben para personas que lideran distintas organizaciones, aun
 2. **Liderar con el ejemplo, tanto al realizar el trabajo técnico como al crear cultura**
     1. Trabajar codo a codo con la comunidad será notado.
     2. Apoyar y empoderar a las personas para que hagan el trabajo que quieren hacer. Darles a otras personas la oportunidad de liderar les permite aprender mientras lo hacen.
-    3. Comenzar con el supuesto de que quien lidera no tiene autoridad sobre nadie y que la autoridad se le otorga a través de la comunidad. Al contribuir a un proyecto, la comunidad es quien hace que las personas que lideran rindan cuentas sobre su trabajo
+    3. Comenzar con el supuesto de que quien lidera no tiene autoridad sobre nadie y que la autoridad se le otorga a través de la comunidad. Al contribuir a un proyecto, la comunidad es quien hace que las personas que lideran rindan cuentas sobre su trabajo.
     4. Piensa en las cualidades de liderazgo que más deseas y decide cómo transmitirlas. Por ejemplo, la amabilidad y la franqueza pueden modelarse.
 3. **Alinear los incentivos para contribuir y participar**
     1. Considerar cuáles son los incentivos reales para que las personas contribuyan o participen.
@@ -94,9 +94,9 @@ Estas reglas se conciben para personas que lideran distintas organizaciones, aun
     3. Para comunicarte, haz que la comunicación sea accesible, simple, digerible y comprensible. Unirse a una comunidad no debería requerir una inversión muy grande.
 10. **Prever y prepararse para la rotación de la comunidad**
     1. Trabaja para cultivar un entorno que busque prevenir el agotamiento de quienes colaboran.
-    2. La gente tendrá que irse o hacer otras cosas, esto no es algo malo. Si aún piensan en el proeycto con cariño cuando se van, es bueno para el grupo (por ejemplo, pueden difundir información positiva sobre el proyecto).
-    3. Gestión de la rotación: si anticipas que la gente se irá, tus sistemas/flujos de trabajo lo reflejaráns
-    4. Los procesos de desvinculación deben ser una prioridad: diseña y actualiza procesos de manera intencional y periódica, incluso contactando a integrantes de la comunidad que ya no participan del proyectos
+    2. La gente tendrá que irse o hacer otras cosas, esto no es algo malo. Si aún piensan en el proyecto con cariño cuando se van, es bueno para el grupo (por ejemplo, pueden difundir información positiva sobre el proyecto).
+    3. Gestión de la rotación: si anticipas que la gente se irá, tus sistemas/flujos de trabajo lo reflejarán.
+    4. Los procesos de desvinculación deben ser una prioridad: diseña y actualiza procesos de manera intencional y periódica, incluso contactando a integrantes de la comunidad que ya no participan del proyectos.
     5. Cuando las personas regresen, ¡dales la bienvenida!
 
 [^1]: Este recurso fue desarrollado por primera vez por quienes asistieron a la llamada comunitaria del 26 de agosto de 2024 del programa Software de Código Abierto Esencial para la Ciencia (Essencial Open Source Software for Science, del inglés) de la Chan Zuckerberg Iniciative. Si agregas algo a este documento, agrega también tu nombre a la lista de autoría (en orden alfabético por apellido). Se compartirá una lista de quienes agreguen contribuciones adicionales en un futuro repositorio de GitHub, donde también puedes enviar tu contribución.
