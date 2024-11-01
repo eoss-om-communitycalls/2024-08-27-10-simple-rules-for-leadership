@@ -23,7 +23,7 @@ citation-location: margin
 bibliography: bibliography.bib
 ---
 
-*Laura Ación created this translation on behalf of the [MetaDocencia](https://www.metadocencia.org/en) Contextualization Team.*
+*Laura Ación has created a Spanish translation of this article on behalf of the [MetaDocencia](https://www.metadocencia.org/en) Contextualization Team.*
 
 ([En Español](/es))
 
