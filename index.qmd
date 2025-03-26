@@ -102,7 +102,7 @@ These rules are imagined as rules for leaders working across organizations, thou
     4. Offboarding processes should be top-of-mind: Intentionally design and regularly update processes, including by reaching out to formerly active community members  
     5. Be welcoming when people come back\!
 
-[^1]:  This resource was first developed by attendees at the August 26, 2024 Chan Zuckerberg Initiative community call for the Essential Open Source Software program. If you add to this document, please also add your name to the contributors list (alphabetically by last name). A list of additional contributors will be shared in a forthcoming GitHub repo, where you can also submit a contribution. 
+[^1]:  This resource was first developed by attendees at the August 26, 2024 Chan Zuckerberg Initiative community call for the Essential Open Source Software program. If you add to this document, please also add your name to the contributors list (alphabetically by last name). 
 
 [^2]:  Cat herding is an idiomatic English term related to organizing a group of people or entities that are not predisposed to being herded, such as cats. It is often used to talk about groups of individuals who don’t necessarily have a reason to “herd” being shepherded toward a common purpose or direction. 
 
